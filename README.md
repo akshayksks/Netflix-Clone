@@ -23,5 +23,5 @@ To run this project locally, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Netflix-login-page-clone
+   cd Netflix-Clone
 3. **Open the index.html file in your preferred browser.**
